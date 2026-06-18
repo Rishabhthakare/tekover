@@ -24,7 +24,7 @@ export default function Footer() {
           </p>
         </div>
         <p style={{ color: 'rgba(240,240,245,0.25)', fontSize: '0.78rem' }}>
-          © {year} Tekover. All rights reserved.
+          © {year} Tekover. All rights reserved :).
         </p>
       </div>
     </footer>
